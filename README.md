@@ -48,3 +48,10 @@ For example, if a `package.json` file is present, you may be able to run:
 
 ```bash
 npm install
+```
+
+If another package manager is used, follow the configuration included in the repository.
+
+## Usage
+
+Start by reviewing the available scripts, configuration files, and source directories.
