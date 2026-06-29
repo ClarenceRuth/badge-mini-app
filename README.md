@@ -92,3 +92,9 @@ Before committing, run any available formatting, linting, build, or test command
 ## Contributing
 
 Contributions should follow the style and structure already present in the repository.
+
+When adding new functionality, include any relevant setup or usage notes.
+
+When fixing bugs, describe the issue clearly and keep the fix as minimal as practical.
+
+## Troubleshooting
