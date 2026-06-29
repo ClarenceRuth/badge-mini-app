@@ -17,3 +17,9 @@ Because the project may evolve over time, always check the repository contents f
 Repository URL:
 
 https://github.com/ClarenceRuth/badge-mini-app.git
+
+Clone the project with:
+
+```bash
+git clone https://github.com/ClarenceRuth/badge-mini-app.git
+```
