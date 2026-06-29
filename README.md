@@ -80,3 +80,9 @@ Common areas to review include:
 - Documentation files
 
 ## Development Notes
+
+Keep changes focused and easy to review.
+
+Update this README when setup, usage, or project behavior changes.
+
+Use clear commit messages that describe the purpose of each change.
