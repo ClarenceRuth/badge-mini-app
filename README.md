@@ -23,3 +23,9 @@ Clone the project with:
 ```bash
 git clone https://github.com/ClarenceRuth/badge-mini-app.git
 ```
+
+Then move into the project directory:
+
+```bash
+cd badge-mini-app
+```
