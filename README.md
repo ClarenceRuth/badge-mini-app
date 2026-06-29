@@ -29,3 +29,10 @@ Then move into the project directory:
 ```bash
 cd badge-mini-app
 ```
+
+## Features
+
+- Small, focused application structure.
+- Badge-oriented project identity.
+- Easy-to-clone repository.
+- Suitable as a base for further development.
