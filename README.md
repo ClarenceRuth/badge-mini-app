@@ -55,3 +55,9 @@ If another package manager is used, follow the configuration included in the rep
 ## Usage
 
 Start by reviewing the available scripts, configuration files, and source directories.
+
+If the project includes documented commands or scripts, run them from the project root.
+
+For example, if a `package.json` file defines a development script, you may be able to run:
+
+```bash
