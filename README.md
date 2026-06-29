@@ -98,3 +98,9 @@ When adding new functionality, include any relevant setup or usage notes.
 When fixing bugs, describe the issue clearly and keep the fix as minimal as practical.
 
 ## Troubleshooting
+
+If setup fails, verify that required tools are installed on your machine.
+
+If dependencies fail to install, check the dependency manifest and lock file for the expected package manager.
+
+If the application does not start, review the available scripts and confirm you are running commands from the project root.
