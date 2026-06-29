@@ -118,3 +118,9 @@ Recommended updates include:
 - Documenting required environment variables if they are introduced.
 - Adding screenshots or examples when the user interface is available.
 - Recording deployment or release steps if they become part of the workflow.
+
+## License
+
+No license information is provided in this README.
+
+Check the repository for a license file or add one if needed.
