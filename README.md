@@ -86,3 +86,9 @@ Keep changes focused and easy to review.
 Update this README when setup, usage, or project behavior changes.
 
 Use clear commit messages that describe the purpose of each change.
+
+Before committing, run any available formatting, linting, build, or test commands included in the project.
+
+## Contributing
+
+Contributions should follow the style and structure already present in the repository.
