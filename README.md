@@ -74,3 +74,9 @@ Common areas to review include:
 
 - Source files
 - Configuration files
+- Dependency manifests
+- Static assets
+- Build or distribution folders
+- Documentation files
+
+## Development Notes
