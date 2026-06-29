@@ -67,3 +67,10 @@ npm run dev
 If no startup script is available, inspect the repository structure to identify the main entry point.
 
 ## Project Structure
+
+The exact structure depends on the files currently committed to the repository.
+
+Common areas to review include:
+
+- Source files
+- Configuration files
