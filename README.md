@@ -110,3 +110,11 @@ If behavior differs from expectations, check recent changes and repository docum
 ## Maintenance
 
 This README should remain accurate as the project changes.
+
+Recommended updates include:
+
+- Adding exact install commands when dependencies are defined.
+- Adding exact run commands when the application entry point is finalized.
+- Documenting required environment variables if they are introduced.
+- Adding screenshots or examples when the user interface is available.
+- Recording deployment or release steps if they become part of the workflow.
