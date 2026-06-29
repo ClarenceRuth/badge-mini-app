@@ -104,3 +104,9 @@ If setup fails, verify that required tools are installed on your machine.
 If dependencies fail to install, check the dependency manifest and lock file for the expected package manager.
 
 If the application does not start, review the available scripts and confirm you are running commands from the project root.
+
+If behavior differs from expectations, check recent changes and repository documentation.
+
+## Maintenance
+
+This README should remain accurate as the project changes.
