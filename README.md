@@ -41,3 +41,10 @@ cd badge-mini-app
 ## Setup
 
 After cloning the repository, review the project files to determine the required setup steps.
+
+If the project includes a dependency manifest, install the dependencies using the matching tool.
+
+For example, if a `package.json` file is present, you may be able to run:
+
+```bash
+npm install
