@@ -61,3 +61,9 @@ If the project includes documented commands or scripts, run them from the projec
 For example, if a `package.json` file defines a development script, you may be able to run:
 
 ```bash
+npm run dev
+```
+
+If no startup script is available, inspect the repository structure to identify the main entry point.
+
+## Project Structure
