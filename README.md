@@ -36,3 +36,8 @@ cd badge-mini-app
 - Badge-oriented project identity.
 - Easy-to-clone repository.
 - Suitable as a base for further development.
+- Clear project naming for organization and maintenance.
+
+## Setup
+
+After cloning the repository, review the project files to determine the required setup steps.
